@@ -40,7 +40,7 @@ Detailed below is the system's technical pathway, delineating the journey from t
 
 Ensure to have the following prerequisites ready:
 
-- **Unity Hub and Unity Editor** (2020.3.24f1 or later): Download and install from the [Unity official website](https://unity3d.com/get-unity/download).
+- **Unity Hub and Unity Editor** (2022.3.9f1 or later): Download and install from the [Unity official website](https://unity3d.com/get-unity/download).
 - **iOS Build Support for Unity**: Available through Unity Hub during the installation process.
 - **Xcode** (12.0 or later): Download and install from the [Apple Developer website](https://developer.apple.com/xcode/).
 - **ARKit**: Ensure that ARKit is enabled in the Unity project settings under XR Plugin Management.
