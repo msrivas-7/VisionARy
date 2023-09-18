@@ -1,0 +1,34 @@
+{
+  "name": "com.unity.xr.arcore",
+  "displayName": "Google ARCore XR Plugin",
+  "version": "5.0.7",
+  "unity": "2021.2",
+  "description": "Provides native Google ARCore integration for use with Unity's multi-platform XR API.\nSupports the following features:\n-Efficient Background Rendering\n-Horizontal Planes\n-Depth Data\n-Anchors\n-Hit Testing\n-Occlusion",
+  "keywords": [
+    "arcore",
+    "ar",
+    "augmented",
+    "xr",
+    "reality",
+    "core"
+  ],
+  "dependencies": {
+    "com.unity.xr.arfoundation": "5.0.7",
+    "com.unity.xr.core-utils": "2.1.0",
+    "com.unity.xr.management": "4.0.1",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0"
+  },
+  "_upm": {
+    "changelog": "### Fixed\n\n- Fixed issue [ARCB-11](https://issuetracker.unity3d.com/issues/ar-foundation-gcalloc-is-using-1-dot-8kb-when-built-on-android) where unnecessary memory was allocated when requesting Camera permissions. This fix requires Unity Editor version 2022.2 or newer.\n- Fixed issue [ARFB-283](https://issuetracker.unity3d.com/issues/autofocusrequested-can-not-automatically-focus-after-configuring-camera-settings-on-a-device) where changing [ARCameraManager.currentConfiguration](xref:UnityEngine.XR.ARFoundation.ARCameraManager.currentConfiguration) could disable some ARCore features, including autofocus."
+  },
+  "upmCi": {
+    "footprint": "88d0dd8d277df2f212c2f755ebbc26161626b534"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.xr.arcore@5.0/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/arfoundation.git",
+    "type": "git",
+    "revision": "2ed0403e7f5d44edc028e2251019fb47962bd8d7"
+  }
+}
