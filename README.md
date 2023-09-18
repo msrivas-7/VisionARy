@@ -1,4 +1,4 @@
-![VisionARy Logo](/VisionARy/VisionARy Logo.png)
+![VisionARy Logo](./VisionARy%20Logo.png)
 # VisionARy: ASU InnovationSpace AR Experience
 
 VisionARy was conceived as a groundbreaking AR experience for iOS during the Devil's Invent Hackathon at Arizona State University. Crafted by a team of enthusiastic developers, we embarked on a mission to redefine immersive learning and community building. Through VisionARy, we aim to foster a community and promote ASU's InnovationSpace by offering users an interactive AR tour of specific buildings within the ASU campus, delineating their unique features and inviting them to be a part of the innovative ecosystem at the InnovationSpace.
