@@ -27,12 +27,12 @@ VisionARy was conceived as a groundbreaking AR experience for iOS during the Dev
 
 ### System Architecture
 
-Detailed below is the system's technical pathway, delineating the journey from the initiation to the end, focusing on the technical advancements and user engagement it offers:
+The system is delineated into a structured pathway, guiding users from initiation to conclusion, focusing on the advanced technical functionalities and user engagement the app offers:
 
-1. **QR Code Scan**: The journey begins with a simple QR code scan that leads users to the AR space.
-2. **ARKit Image Tracking**: Our algorithm works behind the scenes, identifying unique tracked images to showcase specialized content.
-3. **Interactive AR Tour**: As users navigate, they are treated to an engaging AR tour with rich content about each building.
-4. **Community Building**: Towards the end, users are prompted to input their email, a step towards building a community around InnovationSpace.
+1. **QR Code Scan**: Users step into the AR space through a straightforward QR code scan.
+2. **ARKit Image Tracking**: Our tailored algorithm identifies unique tracked images, setting the stage for a personalized experience.
+3. **Interactive AR Tour**: An informative AR tour takes the users through a rich content landscape, enhancing user engagement.
+4. **Community Building**: At the culmination, users are encouraged to become a part of the InnovationSpace community through simple email inputs, fostering a robust community.
 
 ## Getting Started
 
