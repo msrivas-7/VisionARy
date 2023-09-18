@@ -5,7 +5,7 @@ VisionARy was conceived as a groundbreaking AR experience for iOS during the Dev
 
 ## Team Members
 
-- Mehul Srivastava
+- [Mehul Srivastava](https://www.linkedin.com/in/msrivas7/)
 - Neha Balmurugan
 - Tushar Tyagi
 
